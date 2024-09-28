@@ -25,5 +25,5 @@ Code for behavioral data analysis include:
 You will also need dprime_simple.m and nansem.m, which are availabe for download from their original authors online.
 
 
-Calcium imaging time series were motion corrected with Suite2P or NormCorre and manually inspected for quality. ROIs are then identified through Suite2P.	Imaging data is aligned with behavior through the “FullCa2Pipeline_HongliEdits” Jupyter notebook, sections 1 and 2. The behavior must be preprocessed first. “FullCa2Pipeline_HongliEdits” references python scripts available in the "madeline_analysis" repo, which must be stored locally to run the notebook.
+Calcium imaging time series were motion corrected with Suite2P or NormCorre and manually inspected for quality. ROIs are then identified through Suite2P.	Imaging data is aligned with behavior through the “FullCa2Pipeline_HongliEdits” Jupyter notebook, sections 1 and 2. The behavior must be preprocessed first. “FullCa2Pipeline_HongliEdits” references python scripts available in the "adolescent_Ca2_preprocessing" repo, which must be stored locally to run the notebook.
 
